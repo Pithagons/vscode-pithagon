@@ -1,2 +1,6 @@
-# vscode-pithagon
-Next generation of UI-programming language
+# VSCode Pithagon Extension
+
+VSCode Pithagon Extension for Pithagon.ai
+
+![Sample walkthrough](./media/sample.png)
+
